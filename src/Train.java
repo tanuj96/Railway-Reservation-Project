@@ -5,7 +5,6 @@ class Reservation{
 	{
 	System.out.println("Welcome to India Railway");
 }
-	
 public void functionality()
 {
 	String a = "Book";
